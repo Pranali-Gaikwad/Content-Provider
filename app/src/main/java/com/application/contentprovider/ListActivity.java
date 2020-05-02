@@ -19,6 +19,13 @@ public class ListActivity extends AppCompatActivity {
     ArrayList<Note> arrayList;
     Note note;
 
+    /*
+    *
+    * */
+
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
